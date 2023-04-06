@@ -1,0 +1,53 @@
+.top-clothing-sales {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.chart-container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+}
+
+.recharts-wrapper {
+    width: 100%;
+    height: 500px;
+    margin: 0 auto;
+}
+
+.recharts-bar {
+    fill: #8884d8;
+}
+
+.select-container {
+    margin-bottom: 20px;
+}
+
+.select-container select {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #f2f2f2;
+    color: #555;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s ease;
+}
+
+.select-container select:hover {
+    background-color: #ddd;
+}
+
+.select-container select:focus {
+    background-color: #fff;
+    box-shadow: 0 0 5px rgba(81, 203, 238, 1);
+}
+
+.select-container label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}

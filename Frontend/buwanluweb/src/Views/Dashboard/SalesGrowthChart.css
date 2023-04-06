@@ -1,0 +1,50 @@
+.sales-growth-chart {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.sales-growth-chart .recharts-wrapper {
+    overflow: visible;
+}
+
+.sales-growth-chart .recharts-cartesian-axis-tick-value {
+    font-size: 14px;
+}
+
+.sales-growth-chart .recharts-legend {
+    font-size: 14px;
+}
+
+.sales-growth-chart .recharts-tooltip-label {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.sales-growth-chart .recharts-tooltip-item-name {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.sales-growth-chart .recharts-tooltip-item-value {
+    font-size: 14px;
+}
+
+.sales-growth-chart .recharts-bar-rectangle {
+    cursor: pointer;
+    transition: fill 0.2s;
+}
+
+.sales-growth-chart .recharts-bar-rectangle:hover {
+    fill-opacity: 0.8;
+}
+
+.sales-growth-chart .recharts-cartesian-grid-horizontal line {
+    stroke: #ccc;
+    stroke-dasharray: 3 3;
+}
+
+.sales-growth-chart .recharts-cartesian-grid-vertical line {
+    stroke: #ccc;
+    stroke-dasharray: 3 3;
+}
