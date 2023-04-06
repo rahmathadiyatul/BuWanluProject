@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leonovo\\Downloads\\WebsiteBuWanlu\\Backend\\BuWanluWeb.csproj": {}
+    "C:\\Users\\Leonovo\\Downloads\\WebsiteBuWanlu\\BuWanluProject\\Backend\\BuWanluWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leonovo\\Downloads\\WebsiteBuWanlu\\Backend\\BuWanluWeb.csproj": {
+    "C:\\Users\\Leonovo\\Downloads\\WebsiteBuWanlu\\BuWanluProject\\Backend\\BuWanluWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leonovo\\Downloads\\WebsiteBuWanlu\\Backend\\BuWanluWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Leonovo\\Downloads\\WebsiteBuWanlu\\BuWanluProject\\Backend\\BuWanluWeb.csproj",
         "projectName": "BuWanluWeb",
-        "projectPath": "C:\\Users\\Leonovo\\Downloads\\WebsiteBuWanlu\\Backend\\BuWanluWeb.csproj",
+        "projectPath": "C:\\Users\\Leonovo\\Downloads\\WebsiteBuWanlu\\BuWanluProject\\Backend\\BuWanluWeb.csproj",
         "packagesPath": "C:\\Users\\Leonovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leonovo\\Downloads\\WebsiteBuWanlu\\Backend\\obj\\",
+        "outputPath": "C:\\Users\\Leonovo\\Downloads\\WebsiteBuWanlu\\BuWanluProject\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leonovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

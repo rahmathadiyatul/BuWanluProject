@@ -46,7 +46,8 @@ function HomePage() {
                     )}
                 </div>
                 <div className='dashboards-charts'>
-                    <p>Klik tombol berikut untuk melihat data dashboard Butik Bu Wanlu</p>
+                    <p>Klik tombol berikut untuk melihat data dashboard</p>
+                    <h3>Butik Bu Wanlu</h3>
                     <button onClick={toggleCharts}>
                         {showCharts ? "Hide Charts" : "Show Charts"}
                     </button>

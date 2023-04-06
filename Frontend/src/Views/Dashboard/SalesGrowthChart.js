@@ -17,14 +17,17 @@ const SalesGrowthChart = () => {
     }, []);
 
     return (
-        <BarChart width={600} height={300} data={salesGrowthData}>
-            <XAxis dataKey="namaPakaian" />
-            <YAxis />
-            <Tooltip />
-            <Legend />
-            <Bar dataKey="qtyLastMonth" fill="#8884d8" name="Qty Last Month" />
-            <Bar dataKey="qtyThisMonth" fill="#82ca9d" name="Qty This Month" />
-        </BarChart>
+        <div>
+            <h2>Products with The Best Growth</h2>
+            <BarChart width={600} height={300} data={salesGrowthData}>
+                <XAxis dataKey="namaPakaian" />
+                <YAxis />
+                <Tooltip />
+                <Legend />
+                <Bar dataKey="qtyLastMonth" fill="#8884d8" name="Qty Last Month" />
+                <Bar dataKey="qtyThisMonth" fill="#82ca9d" name="Qty This Month" />
+            </BarChart>
+        </div>
     );
 };
 
